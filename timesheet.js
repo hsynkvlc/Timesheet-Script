@@ -1,4 +1,4 @@
-//This script fills timesheet automatically
+//This script fills the timesheet automatically
 //Right click on the timesheet webpage click inspect, click console and paste to code there enter
 
 for (var i=0; i<5; i++){
