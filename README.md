@@ -3,5 +3,4 @@ Timesheet Script for Technical Solutions Team
 
 This script fills timesheet automatically
 
-Go to timesheet.js and copy the code /n
-right click on the timesheet webpage click inspect, click console and paste to code there enter
+Go to timesheet.js and copy the code, right click on the timesheet webpage click inspect, click console and paste to code there enter
